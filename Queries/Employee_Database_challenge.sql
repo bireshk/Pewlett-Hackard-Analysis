@@ -1,6 +1,6 @@
 
 --------------------
--- Deliverable 2 --
+-- Deliverable 1 --
 --------------------
 -- 1. Retrieve the emp_no, first_name, and last_name columns from the Employees table
 SELECT emp_no, first_name, last_name
