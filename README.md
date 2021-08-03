@@ -14,7 +14,7 @@ The outcome of the analysis is listed below:
 
 3.	Table retiring title shows the count of employees retiring w.r.t the title. This table gives an idea of the level of skill sets, the company needs to be newly recruited
 ![retiring_title](https://user-images.githubusercontent.com/62515666/127946326-2e1c40dc-5f0e-4ff2-9265-55b6c6073028.png)
-4.	Finally, table mentorship eligible shows the employee details with birth date between January 1, 1965, and December 31, 1965, who will be participating in mentorship programs for the new recruits. Below table shows the portion of the table:
+4.	Finally, table mentorship eligibility shows the employee details with birth date between January 1, 1965, and December 31, 1965, who will be participating in mentorship programs for the new recruits. Below table shows the portion of the table:
 ![mentorship_eligible](https://user-images.githubusercontent.com/62515666/127946357-e8482a91-3d63-4c9e-8eab-574229deb966.png)
 ## Summary
 The analysis shows a big number of new employees (90,398) needs to be recruited. The breakup of the numbers based on designation are provided below
